@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/assets/app-icon.png" width="120" height="120" alt="GazeKeep" />
+  <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/67266bd614a075c94de37098258d8cd16f6536ee/docs/assets/app-icon.png" width="120" height="120" alt="GazeKeep" />
 
 # GazeKeep 注视保亮
 
 [![GitHub stars](https://img.shields.io/github/stars/IceTeacher/GazeKeep)](https://github.com/IceTeacher/GazeKeep)
 [![GitHub release](https://img.shields.io/github/v/release/IceTeacher/GazeKeep?include_prereleases&color=14795e)](https://github.com/IceTeacher/GazeKeep/releases)
 [![Website](https://img.shields.io/badge/官网-gazekeep.rainafter.cn-14795e)](https://gazekeep.rainafter.cn)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/LICENSE)
-[![English README](https://img.shields.io/badge/README-English-blue)](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/README_en.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/LICENSE)
+[![English README](https://img.shields.io/badge/README-English-blue)](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/README_en.md)
 
-[🌐 官方网站](https://gazekeep.rainafter.cn) &nbsp;|&nbsp; [📥 下载最新 APK](https://github.com/IceTeacher/GazeKeep/releases/latest) &nbsp;|&nbsp; [📖 English README](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/README_en.md)
+[🌐 官方网站](https://gazekeep.rainafter.cn) &nbsp;|&nbsp; [📥 下载最新 APK](https://github.com/IceTeacher/GazeKeep/releases/latest) &nbsp;|&nbsp; [📖 English README](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/README_en.md)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 |                                         主页状态                                          |                                        参数设置                                        |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
-|  <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/assets/screenshot-home.png" width="320" alt="主页运行状态与环境概览" />   | <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/assets/screenshot-settings.png" width="320" alt="检测与保护参数设置" /> |
+|  <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/67266bd614a075c94de37098258d8cd16f6536ee/docs/assets/screenshot-home.png" width="320" alt="主页运行状态与环境概览" />   | <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/67266bd614a075c94de37098258d8cd16f6536ee/docs/assets/screenshot-settings.png" width="320" alt="检测与保护参数设置" /> |
 |                                       **工作后端**                                        |                                     **应用白名单**                                     |
-| <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/assets/screenshot-backend.png" width="320" alt="三种工作后端与自动选择" /> |     <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/assets/screenshot-apps.png" width="320" alt="应用白名单管理" />     |
+| <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/67266bd614a075c94de37098258d8cd16f6536ee/docs/assets/screenshot-backend.png" width="320" alt="三种工作后端与自动选择" /> |     <img src="https://raw.githubusercontent.com/IceTeacher/GazeKeep/67266bd614a075c94de37098258d8cd16f6536ee/docs/assets/screenshot-apps.png" width="320" alt="应用白名单管理" />     |
 
 ## 隐私与安全
 
@@ -43,7 +43,7 @@
 2. 画面只在内存里判断是否注视了屏幕，不保存、不上传。
 3. 看不清、没看清、旁边有别人，都会让屏幕正常熄灭。
 
-本应用不申请网络（`INTERNET`）、存储/相册、读取应用列表（`QUERY_ALL_PACKAGES`）或悬浮窗权限，不接入任何统计、广告或崩溃上报 SDK，无障碍服务不读取任何窗口文本内容。相机预览仅出现在用户主动进入的自检向导页，离开页面即刻释放。完整边界见[隐私与安全](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/product/privacy-security.md)。
+本应用不申请网络（`INTERNET`）、存储/相册、读取应用列表（`QUERY_ALL_PACKAGES`）或悬浮窗权限，不接入任何统计、广告或崩溃上报 SDK，无障碍服务不读取任何窗口文本内容。相机预览仅出现在用户主动进入的自检向导页，离开页面即刻释放。完整边界见[隐私与安全](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/product/privacy-security.md)。
 
 ## 下载与安装
 
@@ -75,19 +75,19 @@
 | **Shizuku** | 免 Root（ADB / 无线调试） | 免 Root 环境下基于 ADB / 无线调试授权执行系统调度 |
 | **无障碍**  | 免 Root 零门槛            | 零门槛开箱即用，通过模拟无感交互维持亮屏。        |
 
-后端默认采用 **Auto（自动）** 模式，按 `LSPosed → Shizuku → 无障碍` 顺序自动优选已就绪后端；手动锁定某一后端时，若该后端失效不会静默切换到其他后端。应用白名单的前台识别按后端分别使用无障碍事件、Shizuku shell 查询或 LSPosed 系统查询，详细使用与排查见[使用说明](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/product/usage.md)。
+后端默认采用 **Auto（自动）** 模式，按 `LSPosed → Shizuku → 无障碍` 顺序自动优选已就绪后端；手动锁定某一后端时，若该后端失效不会静默切换到其他后端。应用白名单的前台识别按后端分别使用无障碍事件、Shizuku shell 查询或 LSPosed 系统查询，详细使用与排查见[使用说明](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/product/usage.md)。
 
 ## 当前状态与开发入口
 
-- **兼容范围与进度**：端上检测、三种后端、UI 界面、参数配置与两步自检均已实现。Android 8.0（API 26）为安装下限，实际表现取决于系统版本、ROM 电源管理与所选后端能力，需按目标设备实测。传感器门控已接入，正式签名 APK 以 GitHub 预发布提供，当前版本的完整实机回归仍待完成，详见[产品定义](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/product/overview.md)与[任务清单](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/plans/todo.md)。
+- **兼容范围与进度**：端上检测、三种后端、UI 界面、参数配置与两步自检均已实现。Android 8.0（API 26）为安装下限，实际表现取决于系统版本、ROM 电源管理与所选后端能力，需按目标设备实测。传感器门控已接入，正式签名 APK 以 GitHub 预发布提供，当前版本的完整实机回归仍待完成，详见[产品定义](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/product/overview.md)与[任务清单](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/plans/todo.md)。
 - **源码构建**：当前可从源码构建 Debug APK（产物位于 `apps/app/android/build/outputs/apk/debug/`）：
 
 ```bash
 pnpm --filter @gazekeep/app exec ./gradlew :android:assembleDebug
 ```
 
-- **文档**：完整构建与工具链要求见[开发与贡献](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/development/contributing.md)，测试与验收矩阵见[测试与验收](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/development/testing.md)，全部文档导航见[文档导航](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/docs/index.md)。
+- **文档**：完整构建与工具链要求见[开发与贡献](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/development/contributing.md)，测试与验收矩阵见[测试与验收](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/development/testing.md)，全部文档导航见[文档导航](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/docs/index.md)。
 
 ## 开源协议
 
-本项目采用 [MIT 许可](https://github.com/IceTeacher/GazeKeep/blob/f49ca17fc494cf51838dd327a78c21cd062b0b50/LICENSE) 开源（内置第三方运行依赖声明见应用“关于”页或 `THIRD_PARTY_NOTICES.txt`）。
+本项目采用 [MIT 许可](https://github.com/IceTeacher/GazeKeep/blob/67266bd614a075c94de37098258d8cd16f6536ee/LICENSE) 开源（内置第三方运行依赖声明见应用“关于”页或 `THIRD_PARTY_NOTICES.txt`）。
